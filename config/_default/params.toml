@@ -80,9 +80,9 @@ enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = ""
+shortname = "live34blog"
 apiUrl = ""
-apiKey = ""
+apiKey = "PoOADpceRDB8HBVnhlEqA97SCskoEJ7nEQr5Iej1yXQUXmkV3kofo1ielQSI40o0"
 admin = ""
 adminLabel = ""
 
