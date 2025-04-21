@@ -76,13 +76,13 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = "live34blog"
+shortname = ""
 apiUrl = ""
-apiKey = "PoOADpceRDB8HBVnhlEqA97SCskoEJ7nEQr5Iej1yXQUXmkV3kofo1ielQSI40o0"
+apiKey = ""
 admin = ""
 adminLabel = ""
 
