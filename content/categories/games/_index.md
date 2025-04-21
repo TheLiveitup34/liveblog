@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Games
+description: A collection of games and gaming-related content.
 image:
 
 # Badge style

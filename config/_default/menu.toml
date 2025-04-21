@@ -9,16 +9,25 @@
 
 [[social]]
 identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+name = "Twitch"
+url = "https://www.twitch.tv/theliveitup34official"
 
 [social.params]
-icon = "brand-github"
+icon = "brand-twitch"
 
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://twitter.com"
+url = "https://x.com/liveitup34"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-x"
+
+
+[[social]]
+identifier = "youtube"
+name = "Youtube"
+url = "https://www.youtube.com/@TheLiveitup34"
+
+[social.params]
+icon = "brand-youtube"
