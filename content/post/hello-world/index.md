@@ -2,7 +2,7 @@
 title: Hello World
 description: Why am I starting a blog?
 slug: hello-world
-date: 2025-04-21 00:00:00+0000
+date: 2025-04-21
 image: cover.jpg
 categories:
     - development
@@ -10,7 +10,6 @@ tags:
     - Software Development
     - Web Development
     - Programming
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 # Hello World
