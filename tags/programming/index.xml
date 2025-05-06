@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on TheLiveitup34 Blog Site</title><link>https://blog.theliveitup34.com/tags/programming/</link><description>Recent content in Programming on TheLiveitup34 Blog Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.theliveitup34.com/tags/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://blog.theliveitup34.com/p/hello-world/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://blog.theliveitup34.com/p/hello-world/</guid><description>&lt;img src="https://blog.theliveitup34.com/p/hello-world/cover.jpg" alt="Featured image of post Hello World" />&lt;h1 id="hello-world">Hello World
+&lt;/h1>&lt;p>So you may be reading this and thinking, &amp;ldquo;Who are you?&amp;rdquo; or &amp;ldquo;Why are you starting a blog?&amp;rdquo;, or &amp;ldquo;What is this blog about?&amp;rdquo;&lt;/p>
+&lt;p>Well, let me tell you a little bit about myself and what you can expect from this blog.&lt;/p>
+&lt;p>I am a self taught software developer and I have been building websites and web applications for a few years now. I have learned how to build and deploy websites in a variety of languages and frameworks and have worked with multiple hosting providers. Somethings I have done include:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Built a custom website framework in vanilla PHP and one in JavaScript.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Built a desktop application to view and see chat externally from Minecraft in a live feed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Worked with APIs from various providers to build custom applications.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Integrated OAuth2 into a custom application to allow users to login with their Twitch account.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Built integrations with Stripe to handle payments and use the information for custom Alerts for livestream Donations.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Built a custom Plugin for a Minecraft server to allow features for fantasy like characteristics and abilities.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Built a few games in PHP and JavaScript using SSE and WebSockets to allow for real time interactions.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Converted a AI Agent built by a popular &lt;a class="link" href="https://twitch.tv/dougdoug" target="_blank" rel="noopener"
+>streamer&lt;/a> to allow conversions and Removed the need for a custom plugin for OBS and rendered the animation in a browser window based on the audio generated.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>So I have done a bit and I am looking forward to learning more and sharing updates to problems I have created and solved. I also will be sharing updates about how website development for &lt;a class="link" href="https://www.theliveitup34.com" target="_blank" rel="noopener"
+>theliveitup34.com&lt;/a> my main website. As well as I will be posting my reviews about games, movies, and tv series I find interesting. This is something I just want to do for fun and give some way for my followers on social media to keep up to date!&lt;/p>
+&lt;p>As a note for anyone willing to learn or understand some topics I will be posting about may get technical and I will try to break down the problem in a understandable way and provide examples of how I solved the problem and what happened. I will provied images and diagrams to help explain the problem and solution.&lt;/p></description></item></channel></rss>
